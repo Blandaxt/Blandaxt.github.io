@@ -1,0 +1,186 @@
+*{
+
+}
+p{
+  display: none;
+}
+#taurus{
+  background: url(https://thumbs.dreamstime.com/b/zodiac-signs-taurus-16791830.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#aries{
+  background: url(https://thumbs.dreamstime.com/z/zodiac-signs-aries-tattoo-design-17476745.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#gemini{
+  background: url(https://i.pinimg.com/originals/1a/d2/1d/1ad21dc535e039cdc39b31af42f1ce38.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#cancer{
+  background: url(https://thumbs.dreamstime.com/z/zodiac-signs-cancer-tattoo-design-17534056.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#leo{
+background: url(https://thumbs.dreamstime.com/z/zodiac-wheel-sign-leo-21730262.jpg); no-repeat center center fixed;
+-webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ width: 100%;
+ height: 800px;
+ font-size: 24px;
+ text-align: center;
+ color: red;
+ margin-top: 100px
+ font-weight: bold;
+ border: 10px solid white;
+}
+#virgo{
+  background: url(https://thumbs.dreamstime.com/z/black-virgo-zodiac-star-sign-illustration-isolated-white-background-46830416.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#libra{
+  background: url(https://i.pinimg.com/originals/10/20/4a/10204a519ef939d8788571cf7577e128.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#scorpio{
+  background: url(http://2.bp.blogspot.com/_Yy3nxANArBw/S2-whIwMPTI/AAAAAAAAA3Y/QTd-a-vN3jc/s400/scorpio+symbol+tribal+tattoos+Tribal-Zodiac-Sign-Tattoo-Scorpio.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#sagittarius{
+  background: url(https://thumbs.dreamstime.com/b/astrology-horoscope-zodiac-signs-circular-sagittarius-archer-centaur-symbol-horoscope-sagittarius-centaur-zodiac-sign-103123635.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#capricorn{
+  background: url(https://i.pinimg.com/originals/aa/49/8e/aa498e199ea221ddbae2975f3ae4d166.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#aquarius{
+  background: url(https://i.pinimg.com/originals/21/1a/4e/211a4edff7ac93ad5047bd9d4c86f3b8.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}
+#pisces{
+  background: url(https://images.icanvas.com/list-hero/pisces-signs-symbols.jpg); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 800px;
+   font-size: 24px;
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   font-weight: bold;
+   border: 10px solid white;
+}

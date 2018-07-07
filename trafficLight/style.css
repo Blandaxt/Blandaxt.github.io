@@ -1,0 +1,29 @@
+/* style.css traffic light */
+
+.container{
+	width: 18%;
+	height: 35rem;
+	border-radius: 40px;
+	background: black;
+	float: left;
+	margin-left: 40%;
+	border: 3px solid white;
+}
+.lights{
+	border-radius: 50%;
+	height: 10rem;
+	background: lightgray;
+	width: 70%;
+	margin-left: 15%;
+	margin-top: 1rem;
+	opacity: .2;
+}
+#red{
+	background: red;
+}
+#yellow{
+	background: yellow;
+}
+#green{
+	background: green;
+}

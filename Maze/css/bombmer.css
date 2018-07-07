@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+main{
+  background: url(http://nullprogram.com/img/path/simple.gif); no-repeat center center fixed;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+  width: 100%;
+  height: 1000px;
+  border: 10px solid black;
+  border-radius: 4px;
+  position: absolute;
+  
+}
+main img{
+  width: 5%;
+  height: 50px;
+  border: 3px solid red;
+  border-radius: 4px;
+  color: blue;
+  /* align-items: flex-start; */
+  position: relative;
+  top: 0px;
+  down: 0px;
+  left: 0px;
+  right: 0px;
+  float: left;
+}

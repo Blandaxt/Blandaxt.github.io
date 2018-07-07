@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+    	<meta charset="utf-8">
+
+    <link rel="stylesheet" href="css/cal.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+		<title>CALCULATOR</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+		<!-- reset brings every value down to 0 and you will have to set the value yourself -->
+		<!-- <link rel="stylesheet" href="css/reset.css"> -->
+
+		<!-- <link rel="stylesheet" href="css/style.css">
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script> -->
+	</head>
+
+	<body>
+
+		<main id="container">
+			<h1><a href="index.html">CALCULATOR<i class="fas fa-calculator"></i></a></h1>
+			<input id="userInput1" type="text" name="" alt="input a number" placeholder="0"><i class="fas fa-arrow-right"></i>
+			<input id="userInput2" type="text" name="" alt="input a number" placeholder="0">
+			<ul>
+
+				<li><button id="division" class="target tag button glow-button" type="button" name="button" alt="division" value="/">/</button></li>
+				<li><button id="subtraction" class="tag button glow-button" type="button" name="button" alt="subtraction" value="-">-</button></li>
+				<li><button id="addition" class="tag button glow-button" type="button" name="button" alt="addition" value="+">+</button></li>
+				<li><button id="multiplication" class="tag button glow-button" type="button" name="button" alt="multiplication" value="*">X</button></li>
+				<li><strong><output id="result" name="result">0</output></strong></li>
+
+			</ul>
+			<script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+			<script type="text/javascript" src="js/cal.js"></script>
+
+		</main><!-- #container -->
+
+	</body>
+
+</html>

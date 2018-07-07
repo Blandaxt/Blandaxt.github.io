@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  font-family: fantasy;
+  font-size: 90px;
+  text-align: center;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  color: red;
+  background: blue;
+  width: auto;
+  height:auto;
+}
+header{
+  background: url(https://i.pinimg.com/736x/1f/28/13/1f281315b84d3db22dd167e0ae0ca6ea.jpg); no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 1500px;
+width: 100%;
+}

@@ -1,0 +1,88 @@
+*{
+  box-sizing: border-box;
+}
+#container{
+  border: 3px solid black;
+  border-radius: 4px;
+  background-color: lightgray;
+  position: relative;
+  width: 20%;
+  height: 236px;
+  float: left;
+}
+.tag{
+  background: lightblue;
+  font-size: 29px;
+  border: 2px solid white;
+  width: 10%;
+  height: 30px;
+  border-radius: 4px;
+  box-shadow: 12px 12px 2px 1px green;
+
+}
+button{
+  width: 20%;
+  height: 50px;
+  font-weight: normal;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  float: left;
+  margin: 5px;
+}
+.glow-button:hover {
+ color: rgba(0, 0, 255, 1);
+ box-shadow: 0 5px 15px rgba(0, 0, 128, .8);
+}
+a{
+  text-decoration: none;
+  text-shadow: 10px;
+  color: blue;
+}
+li{
+  list-style: none;
+  align-content: space-around;
+  margin: 1px;
+}
+input{
+  float: left;
+  color: red;
+}
+#userInput1:hover{
+  color: rgba(120, 255, , 1);
+  box-shadow: 0 5px 15px rgba(0, 0, 128, .8);
+}
+#userInput2:hover{
+  color: rgba(120, 255, , 1);
+  box-shadow: 0 5px 15px rgba(0, 0, 128, .8);
+}
+output{
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  border: 1px solid black;
+  border-radius: 4px;
+  float: left;
+  width: 100%;
+  height: 39px;
+  border-radius: 4px;
+  box-shadow: 12px 12px 2px 1px green;
+  background: white;
+}
+i{
+  float: left;
+  color: blue;
+  margin: 5px;
+}
+h1{
+  border: 2px solid white;
+  border-radius: 4px;
+  box-shadow: 12px 12px 2px 1px green;
+}
+h1:hover {
+ color: rgba(0, 0, 255, 1);
+ box-shadow: 0 5px 15px rgba(0, 0, 128, .8);
+}
+output{
+ color: rgba(100, 255, 255, 1);
+ box-shadow: 0 5px 15px rgba(100, 30, 128, .8);
+}
