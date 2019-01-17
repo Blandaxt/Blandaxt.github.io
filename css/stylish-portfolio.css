@@ -8,6 +8,15 @@ body {
   font-family: 'Source Sans Pro';
 }
 
+#contact {
+  font-size: 1rem;
+  height: 40px;
+  width: 430px;
+  margin-left: 129px;
+  border-radius: 15px;
+  text-shadow: 1px 1px 2px #ff00001f, 0 0 1em #0000ff14, 0 0 0.2em #0000ff3d;
+}
+
 .btn-xl {
   padding: 1.25rem 2.5rem;
 }
