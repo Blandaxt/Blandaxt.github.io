@@ -11,18 +11,41 @@ body {
 #contact {
   font-size: 1rem;
   height: 40px;
-  width: 430px;
-  margin-left: 129px;
+  width: auto;
   border-radius: 15px;
   text-shadow: 1px 1px 2px #ff00001f, 0 0 1em #0000ff14, 0 0 0.2em #0000ff3d;
 }
 
 .mygame{
-
-  border: 2px solid blue;
+  border: 2px solid red;
   color: white;
   padding: 10px;
+  background-color: aqua;
   margin: 10px;
+  border-radius: 28%;
+  display: block;
+  width: 16%;
+  font-size: 29px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0 9px #dc0899;
+  position: relative;
+  left: 40%;
+}
+
+a.mygame{
+  text-decoration: none;
+}
+
+.mygame:hover {
+  background-color: #81c2e094;
+}
+
+.mygame:active {
+  background-color: #3bb5b5;
+  box-shadow: 0 5px #900b66d6;
+  transform: translateY(4px);
 }
 
 .btn-xl {
@@ -112,8 +135,8 @@ h6 {
 
 .masthead h1 {
   font-size: 4rem;
-  margin: 0;
-  padding: 0;
+  /* margin: 0;
+  padding: 0; */
 }
 
 @media (min-width: 992px) {
