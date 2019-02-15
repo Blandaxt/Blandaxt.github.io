@@ -17,6 +17,14 @@ body {
   text-shadow: 1px 1px 2px #ff00001f, 0 0 1em #0000ff14, 0 0 0.2em #0000ff3d;
 }
 
+.mygame{
+
+  border: 2px solid blue;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
 .btn-xl {
   padding: 1.25rem 2.5rem;
 }
@@ -384,4 +392,25 @@ margin:2px;
 
 .text-secondary {
   color: #ecb807 !important;
+}
+
+.blue{
+  margin: 50px 150px 50px 150px;
+  border: 2px solid lightblue;
+  outline: #479BF0 solid 90px;
+  padding: 30px;
+}
+
+.backblue{
+  /* background-color: lightblue;
+  margin: 10px;
+  border: 2px solid purple; */
+}
+
+header{
+  color: #479BF0;
+}
+
+footer{
+  color: #479BF0;
 }
