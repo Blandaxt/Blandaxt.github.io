@@ -437,3 +437,389 @@ header{
 footer{
   color: #479BF0;
 }
+
+
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+/* @media (min-width: 320px) and (max-width: 375px) */
+/* @media (min-width: 320px) and (max-width: 375px) */
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+
+@media (min-width: 320px) and (max-width: 375px){
+
+    h1.title {
+    font-size: 34px;
+    background: #137f9f;
+    border-radius: 7%;
+    width: 76%;
+    position: relative;
+    left: 36px;
+    color: #f9f5ed;
+    }
+
+    #site {
+    font-size: 16px;
+    color: #f9f5ed;
+    outline: thick double #4CAF50;
+    width: 33%;
+    background: #027f9f;
+    border-radius: 9px;
+    margin-left: 5px;
+    position: relative;
+    top: 8px;
+    }
+
+    a.btn.btn-primary.btn-xl.js-scroll-trigger {
+    padding: 7px 0px 0px 3px;
+    width: 44%;
+    height: 37px;
+    }
+
+    a.btn.btn-primary.btn-xl {
+    padding: 9px 0px 0px 2px;
+    width: 36%;
+    height: 45px;
+    }
+
+    a.mygame {
+    width: 27%;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 10px;
+    position: relative;
+    left: 33%;
+    }
+
+    .btn-dark {
+    color: #fff;
+    background-color: #137f9f;
+    border-color: #03A9F4;
+    }
+
+}
+
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+/* @media (min-width: 376px) and (max-width: 500px) */
+/* @media (min-width: 376px) and (max-width: 500px) */
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+
+@media (min-width: 376px) and (max-width: 500px){
+
+  h1.title {
+  font-size: 40px;
+  background: #137f9f;
+  border-radius: 7%;
+  width: 70%;
+  position: relative;
+  left: 57px;
+  color: #f9f5ed;
+  }
+
+  #site {
+  font-size: 21px;
+  color: #f9f5ed;
+  outline: thick double #4CAF50;
+  width: 33%;
+  background: #027f9f;
+  border-radius: 9px;
+  margin-left: 5px;
+  position: relative;
+  top: 21px;
+  }
+
+  a.work {
+  padding: 3px 0px 0px 3px;
+  width: 35%;
+  height: 46px;
+  margin-top: 11px;
+  font-size: 25px;
+  }
+
+  a.btn.btn-primary.btn-xl {
+  padding: 9px 0px 0px 2px;
+  width: 36%;
+  height: 45px;
+  }
+
+  a.mygame {
+  width: 27%;
+  height: 50px;
+  font-size: 20px;
+  padding-left: 10px;
+  position: relative;
+  left: 33%;
+  }
+
+  .btn-dark {
+  color: #fff;
+  background-color: #137f9f;
+  border-color: #e4e9ea;
+  }
+
+
+}
+
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+/* @media (min-width: 501px) and (max-width: 768px) */
+/* @media (min-width: 501px) and (max-width: 768px) */
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+
+@media (min-width: 501px) and (max-width: 768px){
+
+  h1.title {
+  font-size: 56px;
+  background: #137f9f;
+  border-radius: 7%;
+  width: 70%;
+  position: relative;
+  left: 92px;
+  color: #f9f5ed;
+  }
+
+  #site {
+  font-size: 27px;
+  color: #f9f5ed;
+  outline: thick double #4CAF50;
+  width: 33%;
+  background: #027f9f;
+  border-radius: 9px;
+  margin-left: 16px;
+  position: relative;
+  top: 52px;
+  }
+
+  a.work {
+  padding: 3px 0px 0px 3px;
+  width: 35%;
+  height: 65px;
+  margin-top: 11px;
+  font-size: 38px;
+  }
+
+  a.btn.btn-primary.btn-xl {
+  padding: 9px 0px 0px 2px;
+  width: 36%;
+  height: 45px;
+  position: relative;
+  top: 65px;
+  }
+
+  a.mygame {
+  width: 27%;
+  height: 59px;
+  font-size: 36px;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  left: 33%;
+  }
+
+  .btn-dark {
+  color: #fff;
+  background-color: #137f9f;
+  border-color: #e4e9ea;
+  }
+
+}
+
+
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+/* @media (min-width: 769px) and (max-width: 1024px) */
+/* @media (min-width: 769px) and (max-width: 1024px) */
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+
+
+@media (min-width: 769px) and (max-width: 990px){
+
+  h1.title {
+  font-size: 83px;
+  background: #137f9f;
+  border-radius: 7%;
+  width: 76%;
+  position: relative;
+  left: 98px;
+  color: #f9f5ed;
+  }
+
+  #site {
+  font-size: 39px;
+  color: #f9f5ed;
+  outline: thick double #4CAF50;
+  width: 33%;
+  background: #027f9f;
+  border-radius: 9px;
+  margin-left: 16px;
+  position: relative;
+  top: 52px;
+  }
+
+  a.work {
+  padding: 3px 0px 0px 3px;
+  width: 35%;
+  height: 65px;
+  margin-top: 11px;
+  font-size: 38px;
+  }
+
+  a.btn.btn-primary.btn-xl {
+  padding: 9px 0px 0px 2px;
+  width: 31%;
+  height: 57px;
+  position: relative;
+  top: 65px;
+  font-size: 26px;
+  }
+
+  a.mygame {
+  width: 25%;
+  height: 72px;
+  font-size: 45px;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  left: 36%;
+  }
+
+  .btn-dark {
+  color: #fff;
+  background-color: #137f9f;
+  border-color: #e4e9ea;
+  }
+
+}
+
+
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+/* @media (min-width: 991px) and (max-width: 1440px) */
+/* @media (min-width: 991px) and (max-width: 1440px) */
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+
+@media (min-width: 991px) and (max-width: 1440px){
+
+  h1.title {
+  font-size: 100px;
+  background: #137f9f;
+  border-radius: 7%;
+  width: 63%;
+  position: relative;
+  left: 204px;
+  color: #f9f5ed;
+  }
+
+  #site {
+  font-size: 51px;
+  color: #f9f5ed;
+  outline: thick double #4CAF50;
+  width: 33%;
+  background: #027f9f;
+  border-radius: 9px;
+  margin-left: 16px;
+  position: relative;
+  top: 52px;
+  }
+
+  a.work {
+  padding: 3px 0px 0px 3px;
+  width: 27%;
+  height: 74px;
+  margin-top: 11px;
+  font-size: 47px;
+  }
+
+  a.btn.btn-primary.btn-xl {
+  padding: 9px 0px 0px 2px;
+  width: 24%;
+  height: 80px;
+  position: relative;
+  top: 65px;
+  font-size: 43px;
+  }
+
+  a.mygame {
+  width: 25%;
+  height: 96px;
+  font-size: 64px;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  left: 36%;
+  }
+
+  .btn-dark {
+  color: #fff;
+  background-color: #137f9f;
+  border-color: #e4e9ea;
+  }
+
+}
+
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+/* @media (min-width: 1441px) and (max-width: 2560px) */
+/* @media (min-width: 1441px) and (max-width: 2560px) */
+/* My at media querries for a responsive website*/
+/* My at media querries for a responsive website*/
+
+@media (min-width: 1441px) and (max-width: 2560px){
+
+  h1.title {
+  font-size: 115px;
+  background: #137f9f;
+  border-radius: 7%;
+  width: 63%;
+  position: relative;
+  left: 204px;
+  color: #f9f5ed;
+  }
+
+  #site {
+  font-size: 54px;
+  color: #f9f5ed;
+  outline: thick double #4CAF50;
+  width: 33%;
+  background: #027f9f;
+  border-radius: 9px;
+  margin-left: 16px;
+  position: relative;
+  top: 52px;
+  }
+
+  a.work {
+  padding: 3px 0px 0px 3px;
+  width: 28%;
+  height: 74px;
+  margin-top: 11px;
+  font-size: 47px;
+  }
+
+  a.btn.btn-primary.btn-xl {
+  padding: 9px 0px 0px 2px;
+  width: 24%;
+  height: 80px;
+  position: relative;
+  top: 65px;
+  font-size: 43px;
+  }
+
+  a.mygame {
+  width: 25%;
+  height: 96px;
+  font-size: 64px;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  left: 36%;
+  }
+
+  .btn-dark {
+  color: #fff;
+  background-color: #137f9f;
+  border-color: #e4e9ea;
+  }
+
+}
