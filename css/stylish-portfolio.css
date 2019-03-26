@@ -120,7 +120,7 @@ h6 {
 }
 
 .masthead {
-  min-height: 30rem;
+  min-height: 40rem;
   position: relative;
   display: table;
   width: 100%;
@@ -739,7 +739,7 @@ footer{
   height: 80px;
   position: relative;
   top: 65px;
-  font-size: 43px;
+  font-size: 38px;
   }
 
   a.mygame {
