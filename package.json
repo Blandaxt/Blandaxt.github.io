@@ -32,6 +32,7 @@
         "font-awesome": "4.7.0",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1",
+        "lodash": "^4.17.11",
         "randomatic": "^3.1.1",
         "simple-line-icons": "^2.4.1",
         "sshpk": "^1.16.1"
