@@ -34,6 +34,7 @@
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1",
         "lodash": "^4.17.11",
+        "mime": "^2.4.0",
         "popper.js": "^1.14.7",
         "randomatic": "^3.1.1",
         "simple-line-icons": "^2.4.1",
