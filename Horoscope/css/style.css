@@ -59,17 +59,165 @@ body {
 /*******************************************/
 
 /* Center the container */
-#container {
-	width: 960px;
+.container {
+	width: 100%;
 	margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 header {
+    border: 7px solid brown;
+    padding: 8px;
+    margin: 20px;
+    outline: 3px auto;
+    position: relative;
+    align-content: center;
+    display: block;
+    width: 30%;
+    margin-bottom: 60px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+
+label{
+  font-size: 23px;
+  margin: 2px;
+}
+
+select{
+  font-size: 16px;
+}
+
+button{
+  font-size: 15px;
+  padding: 10px;
+  margin: 17px 0px 0px 0px;
+  box-shadow: 4px 2px 20px 0px #e7f51ea6, -0.2em -1px 1em 0px #77e663ab;
+  background-color: #adff2fa8;
+  color: #03867c;
+  border-radius: 45%;
+}
+
+button:hover{
+  font-size: 16px;
+  padding: 11.6px;
+  background: #22ab00eb;
+  color: #01ff25;
+}
+
+.hide{
+
+  display: none;
+}
+
+.item{
+  width: 30rem;
+}
+
+.frame {
+    width: 82%;
+    margin: 0 auto;
+}
+
+.frame2 {
+  height: 1200px;
+}
+
+.picture {
+  width: 80%;
+  border: 43px solid black;
+  height: 1132px;
+  outline: 30px solid blue;
+  box-shadow: 20px -20px 20px 20px rgb(0, 0, 0), -20px -19px 20px 20px rgb(0, 0, 0), inset 0px 0px 11px 12px rgb(0, 0, 0), -20px 18px 20px 20px rgb(0, 0, 0), 20px 20px 20px 20px rgb(0, 0, 0);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.picture:hover{
 
 }
 
-footer {
+.sentence {
+    border: 2px solid #7812ff5c;
+    width: 73%;
+    float: left;
+    background: #fff7004f;
+    font-size: 35px;
+    font-family: 'Kaushan Script', cursive;
+    color: #04c1ff;
+    box-shadow: -6px -4px 15px 2px rgb(230, 105, 105), 3px 3px 11px 6px rgba(59, 187, 199, 0.73);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    margin-left: 372px;
+    text-align: center;
+    position: relative;
+    left: -252px;
+    top: 38px;
+}
 
+.sentence:hover{
+ box-shadow: 0 14px 28px rgba(230, 105, 105, .5), 0 10px 10px rgba(59, 187, 199, .5);
+}
+
+.logo{
+  width: 356px;
+  -webkit-animation: rotation 30s infinite linear;
+  object-fit: contain;
+  border: 2px solid #ffffff00;
+  border-radius: 50%;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+    to {
+				-webkit-transform: rotate(50deg);
+		}
+    to {
+				-webkit-transform: rotate(90deg);
+		}
+    to {
+				-webkit-transform: rotate(130deg);
+		}
+    to {
+				-webkit-transform: rotate(170deg);
+		}
+    to {
+				-webkit-transform: rotate(230deg);
+		}
+    to {
+				-webkit-transform: rotate(270deg);
+		}
+    to {
+				-webkit-transform: rotate(310deg);
+		}
+    to {
+				-webkit-transform: rotate(350deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+
+.border{
+  width: 400px;
+  margin-bottom: 48px;
+}
+
+.back{
+  /* background: url("giphy.gif"); */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: -1;
 }
 
 /******************************************

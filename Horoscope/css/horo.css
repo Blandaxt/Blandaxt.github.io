@@ -1,186 +1,260 @@
 *{
 
 }
-p{
-  display: none;
-}
+
+
 #taurus{
-  background: url(https://thumbs.dreamstime.com/b/zodiac-signs-taurus-16791830.jpg); no-repeat center center fixed;
+  background: url(https://cdnb.artstation.com/p/assets/images/images/011/209/129/large/abigail-diaz-taurus-s.jpg?1528380069); no-repeat center center fixed;
+  /* https://previews.123rf.com/images/kisslilly/kisslilly1609/kisslilly160900006/67462000-taurus-zodiac-sign.jpg
+  https://i.etsystatic.com/5214091/r/il/1deffa/860662620/il_794xN.860662620_bp4r.jpg
+  https://previews.123rf.com/images/aenseidhe/aenseidhe1611/aenseidhe161100017/66458504-zodiac-sign-of-taurus-with-a-decorative-frame-of-roses-astrology-concept-art-tattoo-design-sketch-in.jpg
+  https://thumbs.dreamstime.com/b/zodiac-signs-taurus-16791830.jpg
+  https://cdnb.artstation.com/p/assets/images/images/011/209/129/large/abigail-diaz-taurus-s.jpg?1528380069*/
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #aries{
-  background: url(https://thumbs.dreamstime.com/z/zodiac-signs-aries-tattoo-design-17476745.jpg); no-repeat center center fixed;
+  background: url(https://previews.123rf.com/images/aenseidhe/aenseidhe1612/aenseidhe161200007/68637008-zodiac-sign-of-aries-with-a-decorative-frame-of-roses-astrology-concept-art-tattoo-design-sketch-in-.jpg); no-repeat center center fixed;
+  /* https://previews.123rf.com/images/aenseidhe/aenseidhe1612/aenseidhe161200007/68637008-zodiac-sign-of-aries-with-a-decorative-frame-of-roses-astrology-concept-art-tattoo-design-sketch-in-.jpg
+  https://thumbs.dreamstime.com/z/zodiac-signs-aries-tattoo-design-17476745.jpg*/
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #gemini{
-  background: url(https://i.pinimg.com/originals/1a/d2/1d/1ad21dc535e039cdc39b31af42f1ce38.jpg); no-repeat center center fixed;
+  background: url(https://thumbs.dreamstime.com/z/gemini-zodiac-sign-circle-stylized-as-woman-77212658.jpg); no-repeat center center fixed;
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #cancer{
-  background: url(https://thumbs.dreamstime.com/z/zodiac-signs-cancer-tattoo-design-17534056.jpg); no-repeat center center fixed;
+  background: url(https://cdnb.artstation.com/p/assets/images/images/003/593/049/large/abigail-diaz-cancer.jpg?1475389788); no-repeat center center fixed;
+  /* https://cdnb.artstation.com/p/assets/images/images/003/593/049/large/abigail-diaz-cancer.jpg?1475389788
+  https://thumbs.dreamstime.com/z/zodiac-signs-cancer-tattoo-design-17534056.jpg */
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #leo{
-background: url(https://thumbs.dreamstime.com/z/zodiac-wheel-sign-leo-21730262.jpg); no-repeat center center fixed;
+background: url(https://cdna.artstation.com/p/assets/images/images/003/593/046/large/abigail-diaz-leo-copy2.jpg?1475389755); no-repeat center center fixed;
+/* https://cdna.artstation.com/p/assets/images/images/003/593/046/large/abigail-diaz-leo-copy2.jpg?1475389755
+https://thumbs.dreamstime.com/z/zodiac-wheel-sign-leo-21730262.jpg*/
 -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
- background-size: cover;
+ background-size: contain;
  width: 100%;
- height: 800px;
+ height: 868px;
  font-size: 24px;
  text-align: center;
  color: red;
- margin-top: 100px
  font-weight: bold;
- border: 10px solid white;
+ /* border: 10px solid white; */
+ margin: 0 auto;
+ background-position: center;
+ background-repeat: no-repeat;
+ overflow: hidden;
 }
+
 #virgo{
-  background: url(https://thumbs.dreamstime.com/z/black-virgo-zodiac-star-sign-illustration-isolated-white-background-46830416.jpg); no-repeat center center fixed;
+  background: url(https://cdna.artstation.com/p/assets/images/images/003/634/150/large/abigail-diaz-virgo-serafleur2.jpg?1475841005); no-repeat center center fixed;
+  /* https://cdna.artstation.com/p/assets/images/images/003/634/150/large/abigail-diaz-virgo-serafleur2.jpg?1475841005
+  https://thumbs.dreamstime.com/z/black-virgo-zodiac-star-sign-illustration-isolated-white-background-46830416.jpg*/
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #libra{
-  background: url(https://i.pinimg.com/originals/10/20/4a/10204a519ef939d8788571cf7577e128.jpg); no-repeat center center fixed;
+  background: url(https://cdnb.artstation.com/p/assets/images/images/003/804/193/large/abigail-diaz-libra-serafleur.jpg?1477574674); no-repeat center center fixed;
+  /* https://cdnb.artstation.com/p/assets/images/images/003/804/193/large/abigail-diaz-libra-serafleur.jpg?1477574674
+  https://i.pinimg.com/originals/10/20/4a/10204a519ef939d8788571cf7577e128.jpg*/
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #scorpio{
-  background: url(http://2.bp.blogspot.com/_Yy3nxANArBw/S2-whIwMPTI/AAAAAAAAA3Y/QTd-a-vN3jc/s400/scorpio+symbol+tribal+tattoos+Tribal-Zodiac-Sign-Tattoo-Scorpio.jpg); no-repeat center center fixed;
+  background: url(https://cdnb.artstation.com/p/assets/images/images/005/025/301/large/abigail-diaz-scorpio-serafleur-insta.jpg?1487950954); no-repeat center center fixed;
+  /* https://cdnb.artstation.com/p/assets/images/images/005/025/301/large/abigail-diaz-scorpio-serafleur-insta.jpg?1487950954
+  http://2.bp.blogspot.com/_Yy3nxANArBw/S2-whIwMPTI/AAAAAAAAA3Y/QTd-a-vN3jc/s400/scorpio+symbol+tribal+tattoos+Tribal-Zodiac-Sign-Tattoo-Scorpio.jpg */
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #sagittarius{
-  background: url(https://thumbs.dreamstime.com/b/astrology-horoscope-zodiac-signs-circular-sagittarius-archer-centaur-symbol-horoscope-sagittarius-centaur-zodiac-sign-103123635.jpg); no-repeat center center fixed;
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1818d90d-b224-46f8-9832-955b50c6cf4f/db7r5t3-5f62db26-378b-481a-b78f-7412f8dbc65a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4MThkOTBkLWIyMjQtNDZmOC05ODMyLTk1NWI1MGM2Y2Y0ZlwvZGI3cjV0My01ZjYyZGIyNi0zNzhiLTQ4MWEtYjc4Zi03NDEyZjhkYmM2NWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B4QTC4zwakzNaFlaBiwDsQpItTohpSpTpJDSOVHbVSk); no-repeat center center fixed;
+  /* https://previews.123rf.com/images/aenseidhe/aenseidhe1612/aenseidhe161200032/68639467-sagittarius-zodiac-sign-with-a-decorative-frame-of-roses-astrology-concept-art-tattoo-design-gay-pin.jpg
+  https://thumbs.dreamstime.com/z/sagittarius-zodiac-sign-circle-stylized-as-woman-77218269.jpg
+  https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1818d90d-b224-46f8-9832-955b50c6cf4f/db7r5t3-5f62db26-378b-481a-b78f-7412f8dbc65a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4MThkOTBkLWIyMjQtNDZmOC05ODMyLTk1NWI1MGM2Y2Y0ZlwvZGI3cjV0My01ZjYyZGIyNi0zNzhiLTQ4MWEtYjc4Zi03NDEyZjhkYmM2NWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B4QTC4zwakzNaFlaBiwDsQpItTohpSpTpJDSOVHbVSk */
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
+
 #capricorn{
-  background: url(https://i.pinimg.com/originals/aa/49/8e/aa498e199ea221ddbae2975f3ae4d166.jpg); no-repeat center center fixed;
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1818d90d-b224-46f8-9832-955b50c6cf4f/dbu7fa2-9b2e347c-b57b-4f01-b0b8-29b217ce46aa.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4MThkOTBkLWIyMjQtNDZmOC05ODMyLTk1NWI1MGM2Y2Y0ZlwvZGJ1N2ZhMi05YjJlMzQ3Yy1iNTdiLTRmMDEtYjBiOC0yOWIyMTdjZTQ2YWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lsnyJiXW8RnIraEL30EUVrDMkU0FJys7OSqKVF3Bdjo); no-repeat center center fixed;
+  /* https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1818d90d-b224-46f8-9832-955b50c6cf4f/dbu7fa2-9b2e347c-b57b-4f01-b0b8-29b217ce46aa.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4MThkOTBkLWIyMjQtNDZmOC05ODMyLTk1NWI1MGM2Y2Y0ZlwvZGJ1N2ZhMi05YjJlMzQ3Yy1iNTdiLTRmMDEtYjBiOC0yOWIyMTdjZTQ2YWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lsnyJiXW8RnIraEL30EUVrDMkU0FJys7OSqKVF3Bdjo
+  https://i.pinimg.com/originals/aa/49/8e/aa498e199ea221ddbae2975f3ae4d166.jpg*/
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: contain;
    width: 100%;
-   height: 800px;
+   height: 868px;
    font-size: 24px;
    text-align: center;
    color: red;
-   margin-top: 100px;
    font-weight: bold;
-   border: 10px solid white;
+   /* border: 10px solid white; */
+   margin: 0 auto;
+   background-position: center;
+   background-repeat: no-repeat;
+   overflow: hidden;
 }
-#aquarius{
-  background: url(https://i.pinimg.com/originals/21/1a/4e/211a4edff7ac93ad5047bd9d4c86f3b8.jpg); no-repeat center center fixed;
-  -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
-   background-size: cover;
-   width: 100%;
-   height: 800px;
-   font-size: 24px;
-   text-align: center;
-   color: red;
-   margin-top: 100px;
-   font-weight: bold;
-   border: 10px solid white;
+
+#aquarius {
+    background: url(https://cdnb.artstation.com/p/assets/images/images/014/364/989/large/abigail-diaz-aquarius-small-v1-1000px.jpg?1543669450);
+    /* https://cdnb.artstation.com/p/assets/images/images/014/364/989/large/abigail-diaz-aquarius-small-v1-1000px.jpg?1543669450
+    https://i.pinimg.com/originals/96/b7/ff/96b7ff3c8ec40f15c52c4478b57b84a2.jpg*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: contain;
+    width: 100%;
+    height: 868px;
+    font-size: 24px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    /* border: 10px solid white; */
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
 }
-#pisces{
-  background: url(https://images.icanvas.com/list-hero/pisces-signs-symbols.jpg); no-repeat center center fixed;
-  -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
-   background-size: cover;
-   width: 100%;
-   height: 800px;
-   font-size: 24px;
-   text-align: center;
-   color: red;
-   margin-top: 100px;
-   font-weight: bold;
-   border: 10px solid white;
+
+#pisces {
+    background: url(https://images.fineartamerica.com/images-medium-large-5/zodiac-pisces-ciro-marchetti.jpg);
+    no-repeat center center fixed: ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: contain;
+    width: 100%;
+    height: 770px;
+    font-size: 24px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    /* border: 10px solid white; */
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+    top: 57px;
+    object-fit: contain;
 }

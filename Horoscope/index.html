@@ -11,6 +11,9 @@
 		<link rel="stylesheet" href="css/normalize.css">
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/horo.css">
+		<!-- Google Fonts ( https://fonts.google.com/ ) -->
+		<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 		<!-- reset brings every value down to 0 and you will have to set the value yourself -->
 		<!-- <link rel="stylesheet" href="css/reset.css"> -->
 
@@ -18,88 +21,103 @@
 		<script src="http://code.jquery.com/jquery-latest.min.js"></script> -->
 	</head>
 	<body>
-		<div id="container">
-			<header>
-				<label for="month">Month</label>
-				<select id="month" class="" name="">
-					<option value="1">January</option>
-					<option value="2">Febuary</option>
-					<option value="3">March</option>
-					<option value="4">April</option>
-					<option value="5">May</option>
-					<option value="6">June</option>
-					<option value="7">July</option>
-					<option value="8">August</option>
-					<option value="9">September</option>
-					<option value="10">October</option>
-					<option value="11">November</option>
-					<option value="12">December</option>
-				</select>
-				<label for="day">Day</label>
-				<select id="day" class="" name="">
-					<option value="1">1</option>
-					<option value="2">2</option>
-					<option value="3">3</option>
-					<option value="4">4</option>
-					<option value="5">5</option>
-					<option value="6">6</option>
-					<option value="7">7</option>
-					<option value="8">8</option>
-					<option value="9">9</option>
-					<option value="10">10</option>
-					<option value="11">11</option>
-					<option value="12">12</option>
-					<option value="13">13</option>
-					<option value="14">14</option>
-					<option value="15">15</option>
-					<option value="16">16</option>
-					<option value="17">17</option>
-					<option value="18">18</option>
-					<option value="19">19</option>
-					<option value="20">20</option>
-					<option value="21">21</option>
-					<option value="22">22</option>
-					<option value="23">23</option>
-					<option value="24">24</option>
-					<option value="25">25</option>
-					<option value="26">26</option>
-					<option value="27">27</option>
-					<option value="28">28</option>
-					<option value="29">29</option>
-					<option value="30">30</option>
-					<option value="31">31</option>
-				</select>
-				<button type="button" name="button">Find my Horoscope</button>
+		<section class="back">
+			<div class="container">
+				<section class="border">
+					<img class="logo" src="http://static1.squarespace.com/static/5286e4cbe4b089ab61ce338d/597ff0683e00be8e7b40f43e/597ff8e62e69cfa5c11e484a/1501571626219/661626927.jpg?format=1500w" alt="Zodiac wheel">
+				</section>
+				<header>
+					<label for="month">Month</label>
+					<select id="month" class="" name="">
+						<option value="1">January</option>
+						<option value="2">Febuary</option>
+						<option value="3">March</option>
+						<option value="4">April</option>
+						<option value="5">May</option>
+						<option value="6">June</option>
+						<option value="7">July</option>
+						<option value="8">August</option>
+						<option value="9">September</option>
+						<option value="10">October</option>
+						<option value="11">November</option>
+						<option value="12">December</option>
+					</select>
+					<label for="day">Day</label>
+					<select id="day" class="" name="">
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+						<option value="10">10</option>
+						<option value="11">11</option>
+						<option value="12">12</option>
+						<option value="13">13</option>
+						<option value="14">14</option>
+						<option value="15">15</option>
+						<option value="16">16</option>
+						<option value="17">17</option>
+						<option value="18">18</option>
+						<option value="19">19</option>
+						<option value="20">20</option>
+						<option value="21">21</option>
+						<option value="22">22</option>
+						<option value="23">23</option>
+						<option value="24">24</option>
+						<option value="25">25</option>
+						<option value="26">26</option>
+						<option value="27">27</option>
+						<option value="28">28</option>
+						<option value="29">29</option>
+						<option value="30">30</option>
+						<option value="31">31</option>
+					</select>
+					<button type="button" name="button">Find my Horoscope</button>
 
-				<h1>Your horscope today is!!</h1>
+					<h1>Your horscope today is!!</h1>
 
-				<p id="taurus">YOu will have a bold day!</p>
-<!-- 0000000 -->
-				<p id="aries">The wind will be your friend</p>
-<!-- 111111111 -->
-				<p id="gemini">Luck will match with bad luck, choose wisely!</p>
-<!-- 222222222 -->
-				<p id="cancer">You will win at something today!</p>
-<!-- 33333333333 -->
-				<p id="leo">The bold deserve their due, so be bold!</p>
-<!-- 44444444444444 -->
-				<p id="virgo">The world will surround you as you are the center!</p>
-<!-- 55555555555555 -->
-				<p id="libra">You will meet someone new that will liberate your fears</p>
-<!-- 6666666666666666 -->
-				<p id="scorpio">The things that you love will bring you blessing</p>
-<!-- 77777777777777777 -->
-				<p id="sagittarius">Your accuracy will rise today and you will not miss a shot</p>
-<!-- 8888888888888888 -->
-				<p id="capricorn">You will be bountiful in your efforts</p>
-<!-- 99999999999999999 -->
-				<p id="aquarius">The more you have, the more you will return. collect the world. </p>
-<!-- 10 10 10 10 10 10 10 10 10 10 -->
-				<p id="pisces">Be mischevous for the world is your oyster to play!</p>
-<!-- 11 11 11 11 11 11 11 11 11 -->
-			</header>
+				</header>
 
-			<script type="text/javascript" src="js/horo.js"></script>
-		</div><!-- #container -->
+			</div><!-- #container -->
+
+			<div class="container frame2">
+
+				<section class="picture">
+
+										<section class="frame hide"><section class="sentence"><p>YOu will have a bold day!</p></section><section id="taurus"></section></section>
+						<!-- 0000000 -->
+										<section class="frame hide"><section class="sentence"><p>The wind will be your friend</p></section><section id="aries"></section></section>
+						<!-- 111111111 -->
+										<section class="frame hide"><section class="sentence"><p>Good luck will match with bad luck, choose wisely!</p></section><section id="gemini"></section></section>
+						<!-- 222222222 -->
+										<section class="frame hide"><section class="sentence"><p>You will win at something today!</p></section><section id="cancer"></section></section>
+						<!-- 33333333333 -->
+										<section class="frame hide"><section class="sentence"><p>The bold deserve their due, so be bold!</p></section><section id="leo"></section></section>
+						<!-- 44444444444444 -->
+										<section class="frame hide"><section class="sentence"><p>The world will surround you as you are the center!</p></section><section id="virgo"></section></section>
+						<!-- 55555555555555 -->
+										<section class="frame hide"><section class="sentence"><p>You will meet someone new that will liberate your fears</p></section><section id="libra"></section></section>
+						<!-- 6666666666666666 -->
+										<section class="frame hide"><section class="sentence"><p>The things that you love will bring you blessing</p></section><section id="scorpio"></section></section>
+						<!-- 77777777777777777 -->
+										<section class="frame hide"><section class="sentence"><p>Your accuracy will rise today and you will not miss a shot</p></section><section id="sagittarius"></section></section>
+						<!-- 8888888888888888 -->
+										<section class="frame hide"><section class="sentence"><p>You will be bountiful in your efforts</p></section><section id="capricorn"></section></section>
+						<!-- 99999999999999999 -->
+										<section class="frame hide"><section class="sentence"><p>The more you have, the more you will return. collect the world. </p></section><section id="aquarius"></section></section>
+						<!-- 10 10 10 10 10 10 10 10 10 10 -->
+										<section class="frame hide"><section class="sentence"><p>Be mischevous for the world is your oyster to play!</p></section><section id="pisces"></section></section>
+						<!-- 11 11 11 11 11 11 11 11 11 -->
+
+				</section>
+
+			</div><!-- #container -->
+
+				<script type="text/javascript" src="js/horo.js"></script>
+		</section>
 	</body>
 </html>
