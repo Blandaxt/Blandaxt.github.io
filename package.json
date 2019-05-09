@@ -33,7 +33,7 @@
         "font-awesome": "4.7.0",
         "fresh": "^0.5.2",
         "hoek": "^6.1.2",
-        "jquery": "3.3.1",
+        "jquery": "^3.4.1",
         "jquery.easing": "^1.4.1",
         "lodash": "^4.17.11",
         "mime": "^1.4.1",
@@ -42,7 +42,8 @@
         "popper.js": "^1.14.7",
         "randomatic": "^3.1.1",
         "simple-line-icons": "^2.4.1",
-        "sshpk": "^1.16.1"
+        "sshpk": "^1.16.1",
+        "tar": "^4.4.8"
     },
     "devDependencies": {
         "browser-sync": "2.24.3",
