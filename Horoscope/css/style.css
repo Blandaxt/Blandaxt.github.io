@@ -95,21 +95,21 @@ select{
   font-size: 16px;
 }
 
-button{
-  font-size: 15px;
-  padding: 10px;
-  margin: 17px 0px 0px 0px;
-  box-shadow: 4px 2px 20px 0px #e7f51ea6, -0.2em -1px 1em 0px #77e663ab;
-  background-color: #adff2fa8;
-  color: #03867c;
-  border-radius: 45%;
+button {
+    font-size: 15px;
+    padding: 10px;
+    margin: 17px 0px 0px 0px;
+    box-shadow: 4px 2px 20px 0px #1ec3f5a6, -0.2em -1px 1em 0px #5bb4d6ab;
+    background-color: #2fecffa8;
+    color: #30178c;
+    border-radius: 4%;
 }
 
 button:hover{
   font-size: 16px;
   padding: 11.6px;
-  background: #22ab00eb;
-  color: #01ff25;
+  background-color: #2fecffa8;
+  color: #30178c;
 }
 
 .hide{
@@ -131,23 +131,30 @@ button:hover{
 }
 
 .picture {
+  background: url("giphy.gif");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
   width: 80%;
   border: 43px solid black;
   height: 1132px;
   outline: 30px solid blue;
-  box-shadow: 20px -20px 20px 20px rgb(0, 0, 0), -20px -19px 20px 20px rgb(0, 0, 0), inset 0px 0px 11px 12px rgb(0, 0, 0), -20px 18px 20px 20px rgb(0, 0, 0), 20px 20px 20px 20px rgb(0, 0, 0);
+      box-shadow: 20px -20px 20px 20px rgba(0, 0, 0, 0.38), -20px -19px 20px 20px rgba(0, 0, 0, 0.45), inset 0px 0px 11px 12px rgba(0, 0, 0, 0.46), -20px 18px 20px 20px rgba(0, 0, 0, 0.47), 20px 20px 20px 20px rgba(0, 0, 0, 0.41);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 
 .picture:hover{
-
+  box-shadow: 20px -20px 20px 20px rgb(0, 0, 0), -20px -19px 20px 20px rgb(0, 0, 0), inset 0px 0px 11px 12px rgb(0, 0, 0), -20px 18px 20px 20px rgb(0, 0, 0), 20px 20px 20px 20px rgb(0, 0, 0);
 }
 
 .sentence {
     border: 2px solid #7812ff5c;
     width: 73%;
     float: left;
-    background: #fff7004f;
+    background: #13121238;
     font-size: 35px;
     font-family: 'Kaushan Script', cursive;
     color: #04c1ff;
@@ -211,13 +218,22 @@ button:hover{
 }
 
 .back{
-  /* background: url("giphy.gif"); */
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: contain;
-  background-repeat: no-repeat;
-  z-index: -1;
+
+}
+
+.title{
+  text-decoration: none;
+  color: lightblue;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  margin: 5px 0px 0px 85px;
+}
+
+.home{
+  display: inline-block;
+  margin: 50px;
 }
 
 /******************************************

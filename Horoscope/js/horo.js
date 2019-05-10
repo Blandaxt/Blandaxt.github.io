@@ -1,5 +1,5 @@
 // user enters the Horoscope sign in input field
-document.getElementsByTagName("button")[0].onclick = findHoro
+document.getElementsByTagName("button")[1].onclick = findHoro
 // user press a button that what is my Horoscope
 function findHoro(){
  var month = document.getElementsByTagName("select")[0].value
