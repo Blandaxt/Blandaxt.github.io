@@ -53,6 +53,11 @@ body {
      font-family: Helvetica, Arial, sans-serif;
 }
 
+html, body {
+  height: 100%;
+  min-height: 100%;
+}
+
 
 /******************************************
 /* LAYOUT
@@ -62,6 +67,33 @@ body {
 #container {
 	width: 960px;
 	margin: auto;
+}
+
+.container{
+  outline: 6px solid red;
+  border: 2px solid white;
+  border-radius: 5%;
+  position: relative;
+  background: url(https://ze-robot.com/images/source/23376.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+.wallpaper{
+  background: url(https://data.whicdn.com/images/326479348/original.gif );
+  /* https://data.whicdn.com/images/326479348/original.gif
+  https://img.freepik.com/free-vector/border-design-with-vine-butterflies_1308-3830.jpg?size=626&ext=jpg*/
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   min-height: 100%;
 }
 
 header {

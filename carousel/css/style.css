@@ -64,6 +64,16 @@ body {
 	margin: auto;
 }
 
+.home{
+  position: relative;
+  top: -20px;
+}
+
+.back{
+  padding: 5px;
+  height: auto;
+}
+
 header {
 
 }
