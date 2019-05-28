@@ -53,7 +53,7 @@ section{
   border: 2px solid red;
   position: relative;
   left: -214px;
-  top: -21px;
+  top: 19px;
 }
 #dragon2{
   width: 11%;
@@ -92,8 +92,8 @@ section{
   box-shadow: 12px 12px 2px 1px white;
   border: 2px solid red;
   position: relative;
-  top: -79px;
-  left: 106px;
+  top: -35px;
+  left: 265px;
 }
 #yoda{
   width: 10%;
@@ -108,4 +108,19 @@ section{
 img:hover{
   color: rgba(116, 191, 63, 0.73);
   box-shadow: 0 5px 15px rgba(54, 99, 53, 0.83);
+}
+
+.home {
+  position: relative;
+  left: -242px;
+  font-size: 23px;
+  box-shadow: 14px 7px 20px 7px #56c7e0cf;
+}
+
+.home:hover{
+  box-shadow: 0px 0px 20px 10px #56c7e0;
+}
+
+button:hover{
+  color: lightgreen;
 }
