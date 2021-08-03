@@ -50,7 +50,7 @@
         "simple-line-icons": "^2.4.1",
         "sshpk": "^1.16.1",
         "stringstream": "0.0.6",
-        "tar": "^2.2.2",
+        "tar": "^4.4.15",
         "tunnel-agent": "^0.6.0"
     },
     "devDependencies": {
