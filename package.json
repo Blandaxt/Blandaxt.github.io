@@ -44,7 +44,7 @@
         "mime": "^1.4.1",
         "minimatch": "^3.0.4",
         "morgan": "^1.9.1",
-        "mpath": "^0.5.1",
+        "mpath": "^0.8.4",
         "popper.js": "^1.14.7",
         "randomatic": "^3.1.1",
         "simple-line-icons": "^2.4.1",
